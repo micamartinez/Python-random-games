@@ -1,5 +1,7 @@
 # The computer generates a random number and the user has to guess said number.
 
+import random
+
 def guess(x):
     random_number = random.randint(1, x)
     guess = 0
