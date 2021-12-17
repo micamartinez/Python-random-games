@@ -1,4 +1,4 @@
-# Python-random-games
+# Python random games
 Projects created using the random module from Python.
 
 ### Projects 01-05
