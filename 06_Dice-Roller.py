@@ -1,3 +1,7 @@
+# Create a program that simulates the roll of two dices.
+# Every time we run the program, it will choose two random numbers between 1 and 6. 
+# It will have to print them on the screen, print their sum and ask the user if they want to roll the dice again.
+
 import random
 
 
